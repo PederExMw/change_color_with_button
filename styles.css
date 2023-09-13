@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #e74c3c;
+}
+
+.renk {
+    margin-top: 300px;
+    text-align: center;
+
+}
+
+#hexyaz {
+    display: block;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+
+.renk button {
+    background: none;
+    outline: none;
+    color: white;
+    border: 3px solid white;
+    font-size: 30 px;
+}
